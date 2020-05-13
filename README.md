@@ -30,4 +30,4 @@ Net Beans IDE Version 8.2 (JDK 1.8)or above must be installed in the system
 Libraries Required: ojdbc 14 must  be imported in the project to create a driver connection
 using JDBC libraries.
 Note:Remember you need to edit the username and password and change it with the username and
-password of your oracle sql database
+password of your oracle sql database. Run thE "loginWindow 1" file to use the application"
